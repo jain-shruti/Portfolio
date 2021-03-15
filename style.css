@@ -1,0 +1,70 @@
+*{
+	background-color: #2f4454;
+	color: #ffffff	;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	overflow-x: hidden;
+}
+
+
+
+#logo{
+	background-color: transparent;
+	color: white;
+	font-family: 'Euphoria Script', cursive;
+	font-family: 'Pacifico', cursive;
+}
+
+
+h1,h3{
+	text-align: center;
+	padding: 5px;
+	color: #da7b93;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item,.nav-link{
+	color: #ffffff	;
+}
+
+.nav-link:hover{
+	background-color: #da7b93;
+	border-radius: 5px;
+	color: #2e151b;
+}
+.image{
+  height: 700px;
+  object-fit: cover;
+  display: block;
+  float: left;
+  padding: 0 5px 5px 5px;
+}
+
+
+.carousel-inner{
+	float: none;
+	width: 650px;
+	overflow-x:hidden;
+	padding-left: 10px; 
+	overflow-y: hidden;
+}
+.quote{
+		padding: 5px 100px 5px 100px;
+	float: none;
+	clear: both;
+}
+
+.clearfix {
+  overflow: auto;
+  padding-bottom: 10px;
+}
+
+h2{
+	text-align: center;
+	color: #da7b93;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.fa{
+	color: white
+}
